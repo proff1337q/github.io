@@ -2,7 +2,8 @@
 # студент группы ИДБ-15-12 Щенников И.Р.
 
 ## Лабораторная 1
-* [Ссылка на изображение модели](https://github.com/proff1337q/is.github.io/blob/master/LR1/SixQuestionsModel.png)
+* [Изображение модели "Шесть вопросов"](https://github.com/proff1337q/is.github.io/blob/master/LR1/SixQuestionsModel.png)
+* [Изображение диаграммы классов](https://github.com/proff1337q/is.github.io/blob/master/LR1/ClassesDiagram.png)
 ## Лабораторная 2
 
 ## Лабораторная 3
