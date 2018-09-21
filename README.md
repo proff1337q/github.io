@@ -4,6 +4,7 @@
 ## Лабораторная 1
 * [Изображение модели "Шесть вопросов"](https://github.com/proff1337q/is.github.io/blob/master/LR1/SixQuestionsModel.png)
 * [Изображение диаграммы классов](https://github.com/proff1337q/is.github.io/blob/master/LR1/ClassesDiagram.png)
+* [Изображение диаграммы прецедентов](https://github.com/proff1337q/is.github.io/blob/master/LR1/UseCaseDiagram.png)
 ## Лабораторная 2
 
 ## Лабораторная 3
