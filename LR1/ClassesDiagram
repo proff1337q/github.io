@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Тестировщик" as Тестировщик {
+ Программное средство
+Отчет Верифицировать комплектующую ПК (Характеристика комплектующего, Технологическая карта)
+}
+hide circle
+@enduml
