@@ -36,7 +36,9 @@
 ## Лабораторная 6
 ![Рисунок](https://github.com/proff1337q/is.github.io/blob/master/LR6/1.png?raw=true)
 * [UML 1](https://github.com/proff1337q/is.github.io/blob/master/LR6/1.txt)
+
 ![Рисунок](https://github.com/proff1337q/is.github.io/blob/master/LR6/2.png?raw=true)
 * [UML 2](https://github.com/proff1337q/is.github.io/blob/master/LR6/2.txt)
+
 ![Рисунок](https://github.com/proff1337q/is.github.io/blob/master/LR6/3.png?raw=true)
 * [UML 3](https://github.com/proff1337q/is.github.io/blob/master/LR6/3.txt)
