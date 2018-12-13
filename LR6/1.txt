@@ -4,15 +4,15 @@ skinparam class {
 	ArrowColor Black
 	BorderColor Black
 }
-class Entity as "Потоки"
-class Input as "Входящие потоки"
-class Output as "Выходящие потоки"
-class Control as "Потоки управления"
+class Entity as "РџРѕС‚РѕРєРё"
+class Input as "Р’С…РѕРґСЏС‰РёРµ РїРѕС‚РѕРєРё"
+class Output as "Р’С‹С…РѕРґСЏС‰РёРµ РїРѕС‚РѕРєРё"
+class Control as "РџРѕС‚РѕРєРё СѓРїСЂР°РІР»РµРЅРёСЏ"
 
-class InpData as "Данные о ПК"
-class OutData as "Отчет"
-class Gost as "ГОСТ 34.603-92"
-class Net as "Технологическая карта"
+class InpData as "Р”Р°РЅРЅС‹Рµ Рѕ РџРљ"
+class OutData as "РћС‚С‡РµС‚"
+class Gost as "Р“РћРЎРў 34.603-92"
+class Net as "РўРµС…РЅРѕР»РѕРіРёС‡РµСЃРєР°СЏ РєР°СЂС‚Р°"
 
 
 Entity <|-- Input 
