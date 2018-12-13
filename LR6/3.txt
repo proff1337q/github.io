@@ -4,10 +4,10 @@ skinparam class {
 	ArrowColor Black
 	BorderColor Black
 }
-class Entity as "Модули"
+class Entity as "РњРѕРґСѓР»Рё"
 
-class SaveMod as "Модуль \n сохранения"
-class TransMod as "Модуль \n передачи \n данных"
+class SaveMod as "РњРѕРґСѓР»СЊ \n СЃРѕС…СЂР°РЅРµРЅРёСЏ"
+class TransMod as "РњРѕРґСѓР»СЊ \n РїРµСЂРµРґР°С‡Рё \n РґР°РЅРЅС‹С…"
 
 Entity <|-- SaveMod
 Entity <|-- TransMod 
