@@ -23,7 +23,11 @@
 ![Рисунок](https://github.com/proff1337q/is.github.io/blob/master/LR3/DFDDo.png?raw=true)
 * [Блок DFD "Do"](https://github.com/proff1337q/is.github.io/blob/master/LR3/PlanDoCheck.rsf)
 ## Лабораторная 4
-
+![Рисунок](https://github.com/proff1337q/is.github.io/blob/master/LR4/01_A0.png?raw=true)
+![Рисунок](https://github.com/proff1337q/is.github.io/blob/master/LR4/02_A0.png?raw=true)
+![Рисунок](https://github.com/proff1337q/is.github.io/blob/master/LR4/03_A1.png?raw=true)
+![Рисунок](https://github.com/proff1337q/is.github.io/blob/master/LR4/05_A2.png?raw=true)
+![Рисунок](https://github.com/proff1337q/is.github.io/blob/master/LR4/07_A3.png?raw=true)
 ## Лабораторная 5
 
 ## Лабораторная 6
