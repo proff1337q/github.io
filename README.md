@@ -29,7 +29,14 @@
 ![Рисунок](https://github.com/proff1337q/is.github.io/blob/master/LR4/05_A2.png?raw=true)
 ![Рисунок](https://github.com/proff1337q/is.github.io/blob/master/LR4/07_A3.png?raw=true)
 ## Лабораторная 5
-
+![Рисунок](https://github.com/proff1337q/is.github.io/blob/master/LR5/04_A12.png?raw=true)
+![Рисунок](https://github.com/proff1337q/is.github.io/blob/master/LR5/06_A22.png?raw=true)
+![Рисунок](https://github.com/proff1337q/is.github.io/blob/master/LR5/08_A32.png?raw=true)
+![Рисунок](https://github.com/proff1337q/is.github.io/blob/master/LR5/09_A33.png?raw=true)
 ## Лабораторная 6
-
-## Лабораторная 7
+![Рисунок](https://github.com/proff1337q/is.github.io/blob/master/LR6/1.png?raw=true)
+* [UML 1](https://github.com/proff1337q/is.github.io/blob/master/LR6/1.txt)
+![Рисунок](https://github.com/proff1337q/is.github.io/blob/master/LR6/2.png?raw=true)
+* [UML 2](https://github.com/proff1337q/is.github.io/blob/master/LR6/2.txt)
+![Рисунок](https://github.com/proff1337q/is.github.io/blob/master/LR6/3.png?raw=true)
+* [UML 3](https://github.com/proff1337q/is.github.io/blob/master/LR6/3.txt)
