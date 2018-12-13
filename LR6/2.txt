@@ -4,11 +4,11 @@ skinparam class {
 	ArrowColor Black
 	BorderColor Black
 }
-class Entity as "Роли"
+class Entity as "Р РѕР»Рё"
 
-class Mechanisms as "Механизмы"
+class Mechanisms as "РњРµС…Р°РЅРёР·РјС‹"
 
-class ModEncr as "Программное\nсредство"
+class ModEncr as "РџСЂРѕРіСЂР°РјРјРЅРѕРµ\nСЃСЂРµРґСЃС‚РІРѕ"
 
 Entity <|-- Mechanisms 
 
